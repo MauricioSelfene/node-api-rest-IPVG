@@ -6,4 +6,3 @@ const persona = {
     apellido : "Selfene"
 }
 
-console.log(persona.nombre);
