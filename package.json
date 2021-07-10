@@ -1,0 +1,26 @@
+{
+  "name": "api-rest-ipvg",
+  "version": "1.0.0",
+  "description": "Curso de node ipvg clase 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioSelfene/node-api-rest-IPVG.git"
+  },
+  "author": "Mauricio Selfene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioSelfene/node-api-rest-IPVG/issues"
+  },
+  "homepage": "https://github.com/MauricioSelfene/node-api-rest-IPVG#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
